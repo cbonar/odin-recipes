@@ -1,1 +1,2 @@
 # odin-recipes
+<p>Hello in this project I will be setting up a basic recipe page. I will include both ordered and unorderd lists, headings, uploaded images, and links. <strong>Hope you enjoy!</strong></p>
